@@ -153,3 +153,6 @@
 ansible-playbook -i inventory/prod.yml site.yml --diff
 ```
 
+<img src = "img/01.png" width = 100%>
+
+Все запустилось на 3-х виртуальных машинах, расположенных в Я.Облако.
